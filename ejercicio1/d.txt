@@ -1,0 +1,3 @@
+Quan faries servir funcions en un programa?
+Utilizaria una funcion en un programa en el que quiero que se ejecuten una serie de comandos en repetidas ocasiones. 
+
